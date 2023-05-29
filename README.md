@@ -1,4 +1,6 @@
-# crm-system-front
+# profiler-client-front
+
+Made with https://github.com/artem-kulakovich
 
 ## Project setup
 ```
